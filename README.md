@@ -1,5 +1,3 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0cafba97-45e9-4108-a8b4-7e238360aef3" /># LEO Satellite Handover Optimization
-
 ## Project Overview
 This project focuses on simulating and optimizing handovers between Low Earth Orbit (LEO) satellites using Python.
 
